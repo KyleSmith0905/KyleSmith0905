@@ -3,12 +3,12 @@ I am a JavaScript and C# programmer (🖥️). I have a certification in JavaScr
 
 ---
 ## 😎 Personal Fact Sheet
-| `Title: string`| `Value1: string`| `Value2: string`|
-|:---------------|----------------:|----------------:|
-| Name           | Kyle            | Smith           |
-| Age            | 18              | 09/05/2002      |
-| Location       | Sarasota        | Florida         |
-| Languages      | Javascript      | C#              |
+| `Title: string`| `Value1: string`|
+|:---------------|---:|
+| Name | Kyle Smith |
+| Age | 18 |
+| Location | Sarasota, Florida |
+| Languages | Javascript, C# |
 
 ---
 ## 🤔 Contact
