@@ -12,5 +12,4 @@ I am a JavaScript and C# programmer (🖥️). I have a certification in JavaScr
 
 ---
 ## 🤔 Contact
-1. **Discord:** FiNS Flexin#6193
-2. **Email:** kylesmith090502@gmail.com *(Infrequent Activity)*
+1. **Email:** kylesmith090502@gmail.com *(Infrequent Activity)*
