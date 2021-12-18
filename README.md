@@ -1,16 +1,21 @@
-## About Me
-Please visit my website at https://yskkyle.com/.
+*Image should be different on each page load.*
 
-I am a JavaScript and C# programmer (🖥️). I have a certification in JavaScript programming by Microsoft (*98-382:MTA: Introduction to Programming using JavaScript*) (📝). I took 2 years of a game development class(👾) and 2 years of a business management and analysis class (📊). Check out my [Sorting Algorithm Website](https://sorting-algorithm-jet.vercel.app/) (🧮) and [Among Chess plugin for Among Us](https://github.com/KyleSmith0905/Among-Chess) (♟️).
+![Random Facts About Kyle.](https://yskkyle.com/api/summary.jpg)
+
+## Current Websites
+- https://rtlchallenges.com/
+- https://sorting-algorithm-jet.vercel.app/
+- https://yskkyle.com/
 
 ---
-## Personal Fact Sheet
-| `Title: string`| `Value1: string`|
-|:---------------|---:|
-| Name | Kyle Smith |
-| Location | Sarasota, Florida |
-| Languages | Javascript, C# |
+## Experienced With
+- Languages: TypeScript, JavaScript, and C#.
+- Front End: React, React Native, React Redux, Next, Angular, WordPress and HTML.
+- Back End: NodeJS, Express, HTTP.
+- Database: MongoDB and Firebase's Firestore.
+- Testing: Jest, Mocha, SuperTest, and Cypress.
 
 ---
 ## Contact
-1. **Email:** kylesmith090502@gmail.com
+- **Email:** kylesmith090502@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/kyle-smith-abb549216/
