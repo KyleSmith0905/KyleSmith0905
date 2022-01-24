@@ -7,11 +7,12 @@
 - https://rtlchallenges.com/
 - https://sorting-algorithm-jet.vercel.app/
 - https://yskkyle.com/
+- https://ccidenticon.vercel.app/
 
 ---
 ## Experienced With
 - Languages: TypeScript, JavaScript, and C#.
-- Front End: React, React Native, React Redux, Next, Angular, WordPress and HTML.
+- Front End: React, React Native, Next, Angular, WordPress and HTML.
 - Back End: NodeJS, Express, HTTP.
 - Database: MongoDB and Firebase's Firestore.
 - Testing: Jest, Mocha, SuperTest, and Cypress.
