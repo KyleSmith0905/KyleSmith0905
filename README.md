@@ -1,6 +1,6 @@
 *Image should be different on each page load.*
 
-[![Random Facts About Kyle.](https://yskkyle.com/api/summaryCache.jpeg)](#)
+[![Random Facts About Kyle.](https://yskkyle.com/api/summary-cache.jpeg)](#)
 
 ---
 ## Current Websites
