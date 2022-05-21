@@ -4,6 +4,7 @@
   <tr><th>Sorting Algorithm Visualizer</th><td>https://sorting-algorithm-jet.vercel.app/</td><td>A webapp to visualize sorting algorithms</td></tr>
   <tr><th>RTL Challenges</th><td>https://rtlchallenges.com/</td><td>User-generate challenges selector</td></tr>
   <tr><th>Cyber Circle Identicon</th><td>https://ccidenticon.vercel.app/</td><td>Create quick randomized profile pictures</td></tr>
+  <tr><th>Worst Date Selector</th><td>https://badui-phone-input.web.app/</td><td>Submission for [Rysolv's 2nd Hackathon](https://github.com/rysolv/hackathon)</td></tr>
 </table>
 
 ---
