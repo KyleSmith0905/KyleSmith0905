@@ -13,7 +13,7 @@
   <tr><th>ProForexTrades</th><td>https://proforextrades.com/</td><td>Training and resources on Forex and Options</td></tr>
   <tr><th>Prank Tube</th><td><i>private</i></td><td>A video player for prank content creators</td></tr>
   <tr><th>Estack Industries</th><td>https://github.com/Estack-industries/estack-app</td><td>A webapp for listing and finding real estate</td></tr>
-  <tr><th>Sparrow Design Website</th><td><i>private</i></td><td>A portfolio site for Sparrow Design</td></tr>
+  <tr><th>Sparrow Design Website</th><td>https://sparrow-design.com/</td><td>A portfolio site for Sparrow Design</td></tr>
   <tr><th>Crypto Inquirer</th><td><i>private</i></td><td>Training and resources on Crypto</td></tr>
 </table>
 
