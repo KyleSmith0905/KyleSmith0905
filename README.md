@@ -8,7 +8,8 @@
 </table>
 
 ---
-## Collaboratively Developed Websites/Webapps (Sorted by time contributed)
+## Professionally Developed Websites/Webapps (Sorted by time contributed)
+*Websites completed for internships and employment.*
 <table>
   <tr><th>ProForexTrades</th><td>https://proforextrades.com/</td><td>Training and resources on Forex and Options</td></tr>
   <tr><th>Prank Tube</th><td><i>private</i></td><td>A video player for prank content creators</td></tr>
