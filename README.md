@@ -46,7 +46,7 @@
     <td>A video player for prank content creators</td></tr>
   <tr>
   </tr>
-    <th>RC Comms</th>
+    <th>VOIP App</th>
     <td><i>private</i></td>
     <td>Live communications app for filming</td>
   </tr>
