@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <th>Jumbly NFT</th>
-    <td><a href="https://jumblynft.com/">Website</a><a href="https://play.google.com/store/apps/details?id=com.sparrow.jumbly">Android</a><a href="https://apps.apple.com/us/app/jumbly-nft/id1553715430">iOS (in review)</a></td>
+    <td><a href="https://jumblynft.com/">Website</a>, <a href="https://play.google.com/store/apps/details?id=com.sparrow.jumbly">Android</a>, <a href="https://apps.apple.com/us/app/jumbly-nft/id1553715430">iOS (in review)</a></td>
     <td>A puzzle game where you can win NFTs</td></tr>
   <tr>
   <tr>
