@@ -12,7 +12,7 @@
    </tr>
   <tr>
     <th>RTL Challenges</th>
-    <td><a href="https://rtlchallenges.com/">Website</a></td>
+    <td><a href="https://rtlchallenges.vercel.app/">Website</a></td>
     <td>User-generate challenges selector</td>
   </tr>
   <tr>
