@@ -9,7 +9,12 @@
     <th>Sorting Algorithm Visualizer</th>
     <td><a href="https://sorting-algorithm-jet.vercel.app/">Website</a>, <a href="https://github.com/KyleSmith0905/Sorting-Algorithm">GitHub</a></td>
     <td>A webapp to visualize sorting algorithms</td>
-   </tr>
+  </tr>
+  <tr>
+    <th>Alien Evidence</th>
+    <td><a href="https://alienevidence.vercel.app/">Website</a></td>
+    <td>A yellow press news platform for alien evidence</td>
+  </tr>
   <tr>
     <th>RTL Challenges</th>
     <td><a href="https://rtlchallenges.vercel.app/">Website</a></td>
