@@ -1,5 +1,5 @@
 ## About Me
-Hello, im Kyle Smith.
+Hello, I'm Kyle Smith.
 
 I am a frontend, backend, and mobile engineer working at Sparrow Design. When I am seeking entertainment, I play virtual reality games like Pavlov Shack and Among Us VR. Occasionally I code as a hobby, I am currently working on something I would like to keep private. I love being social around people, but on rare occasions I may be awkward.
 
