@@ -81,4 +81,4 @@ I am a frontend, backend, and mobile engineer working at Sparrow Design. When I 
 ---
 ## Contact
 - **Email:** kylesmith090502@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/kyle-smith-abb549216/
+- **LinkedIn:** https://www.linkedin.com/in/kylesmith0905/
