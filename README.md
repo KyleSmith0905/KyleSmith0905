@@ -57,6 +57,11 @@ I am a frontend, backend, and mobile engineer working at Sparrow Design. When I 
     <td>A puzzle game where you can win NFTs</td>
   </tr>
   <tr>
+    <th>Roots App</th>
+    <td><i>private</i></td>
+    <td>An app for univserity classes to connect to a local webserver</td>
+  </tr>
+  <tr>
     <th>VolleyWise</th>
     <td><a href="https://volleywise.com/">Website</a></td>
     <td>An online video platform for VolleyBall</td>
