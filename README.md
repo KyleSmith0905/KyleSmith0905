@@ -1,7 +1,7 @@
 ## About Me
 Hello, I'm Kyle Smith.
 
-I am a frontend, backend, and mobile engineer working at Sparrow Design. When I am seeking entertainment, I spend time with my family playing various games, such as Sea Of Thieves. Occasionally I code as a hobby, I love developing tools that help people such as Estimtest.
+I am a frontend, backend, and mobile engineer working at Sparrow Design. When I am seeking entertainment, I spend time with my family playing various cooperative games. Occasionally I code as a hobby, I love developing tools that help people such as Estimtest.
 
 ## Independently Developed Websites/Webapps
 <table>
