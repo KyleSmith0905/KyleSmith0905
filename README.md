@@ -11,6 +11,11 @@ I am a frontend, backend, and mobile engineer working at Sparrow Design. When I 
     <td>My portfolio webapp</td>
   </tr>
   <tr>
+    <th>Trigonometry Simulator</th>
+    <td><a href="https://trigsim.com/">Website</a></td>
+    <td>Accessibility analysis tool</td>
+  </tr>
+  <tr>
     <th>Estimtest</th>
     <td><a href="https://estimtest.vercel.app/">Website</a>, <a href="https://github.com/KyleSmith0905/estimtest">GitHub</a></td>
     <td>Accessibility analysis tool</td>
@@ -90,5 +95,5 @@ I am a frontend, backend, and mobile engineer working at Sparrow Design. When I 
 
 ---
 ## Contact
-- **Email:** kylesmith090502@gmail.com
+- **Email:** me@yskkyle.com
 - **LinkedIn:** https://www.linkedin.com/in/kylesmith0905/
