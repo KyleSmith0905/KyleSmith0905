@@ -64,7 +64,7 @@ I am a frontend, backend, and mobile engineer working at Sparrow Design. When I 
   <tr>
     <th>Roots App</th>
     <td><i>private</i></td>
-    <td>An app for univserity classes to connect to a local webserver</td>
+    <td>An app for univserity classes to connect to interface with a robot</td>
   </tr>
   <tr>
     <th>VolleyWise</th>
