@@ -13,7 +13,7 @@ I am a frontend, backend, and mobile engineer working at Sparrow Design. When I 
   <tr>
     <th>Trigonometry Simulator</th>
     <td><a href="https://trigsim.com/">Website</a>, <a href="https://play.google.com/store/apps/details?id=www.kylesmith0905.trigonometrysimulator">Android</a></td>
-    <td>Accessibility analysis tool</td>
+    <td>Visualize trigonometry functions</td>
   </tr>
   <tr>
     <th>Estimtest</th>
