@@ -7,6 +7,7 @@
 
 📺 However, I do like to take breaks play family games such as Mario Party with my family.
 
+---
 ## Independently Developed Websites/Webapps
 <table>
   <tr>
@@ -94,6 +95,22 @@
     <th>Estack Industries</th>
     <td><a href="https://github.com/Estack-industries/estack-app">GitHub</a></td>
     <td>A webapp for listing and finding real estate</td>
+  </tr>
+</table>
+
+---
+## Other Projects
+*Various small projects that aren't web or mobile apps.*
+<table>
+  <tr>
+    <th>Among Chess</th>
+    <td><a href="https://github.com/KyleSmith0905/Among-Chess">GitHub</a>, <a href="https://amodsus.com/resources/among-chess.169/">Download</a></td>
+    <td>Added a chess mode to Among Us</td>
+  </tr>
+  <tr>
+    <th>Cursed Among Us</th>
+    <td><a href="https://github.com/KyleSmith0905/Cursed-Among-Us">GitHub</a>, <a href="https://www.curseforge.com/among-us/all-mods/cursed-mod">Download</a></td>
+    <td>Adds extremely fun complexity to Among Us</td>
   </tr>
 </table>
 
