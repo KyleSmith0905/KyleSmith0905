@@ -16,6 +16,11 @@
     <td>My portfolio webapp</td>
   </tr>
   <tr>
+    <th>YSKKyle Blog</th>
+    <td><a href="https://blog.yskkyle.com/">Website</a>, <a href="https://github.com/KyleSmith0905/ysk-kyle-blog">GitHub</a></td>
+    <td>My personal blogging site</td>
+  </tr>
+  <tr>
     <th>Trigonometry Simulator</th>
     <td><a href="https://trigsim.com/">Website</a>, <a href="https://play.google.com/store/apps/details?id=www.kylesmith0905.trigonometrysimulator">Android</a></td>
     <td>Visualize trigonometry functions</td>
