@@ -63,7 +63,7 @@
 <table>
   <tr>
     <th>RealPranks/RossCreations</th>
-    <td><a href="https://realpranks/">Website</a></td>
+    <td><a href="https://realpranks.com/">Website</a></td>
     <td>An online video platform for Prank Youtubers</td>
   </tr>
   <tr>
